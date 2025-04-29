@@ -9,6 +9,6 @@
     <string name="bienvenidos">Bienvenidos!</string>
     <string name="confirm_password">Confirmar Contraseña</string>
     <string name="signed">signed</string>
-    <string name="already_have_an_account_login">ya_tienes_una_cueenta_inicia_sesion</string>
+    <string name="already_have_an_account_login">ya_tienes_una_cuenta_inicia_sesion</string>
     <string name="app_name">proyecto_de_catedra</string>
 </resources>
